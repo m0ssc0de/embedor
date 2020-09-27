@@ -1,3 +1,5 @@
+mod backgroud;
+
 pub fn haha() {
     println!("haha");
 }
